@@ -3,12 +3,12 @@ Welcome to the Rock, Paper, Scissors Game Repository! This Git repository contai
 
 ## Features:
 
-Player vs. Computer gameplay
-User-friendly interface
-Randomized computer choices
+- Player vs. Computer gameplay
+- User-friendly interface
+- Randomized computer choices
 
 ## How to Use:
 
-Clone the repository to your local machine.
-Navigate to the project directory.
-Run the main game file to start playing.
+- Clone the repository to your local machine.
+- Navigate to the project directory.
+- Run the main game file to start playing.
